@@ -1,0 +1,199 @@
+body {
+  margin: 0px;
+  text-align: center;
+  color: #40514E;;
+}
+h1 {font-family: 'Sacramento', cursive;
+    display: inline-block;
+    color: #FF7171;
+    margin: 0px;
+    font-size: 2.625rem;
+   }
+   p {font-family: sans-serif;}
+
+ .top-container {
+   background: rgb(237,246,229);
+   background: linear-gradient(180deg, rgba(237,246,229,1) 35%, rgba(255,255,255,1) 100%);
+                  margin-top: 0px;
+                  height: 500px;
+                  padding-top: 100px;
+                  padding-top: 179px;
+                  border-radius: 1%;;}
+
+
+.mountain-photo {
+    display: inline-block;
+    position: relative;
+    bottom: -17px;
+    height: 372px;
+    width: 645px;;
+}
+
+.clouds {
+  display: inline-block;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 81px;
+    left: 152px;}
+
+.second-cloud {
+    display: inline-block;
+    position: absolute;
+    height: 115px;
+    width: 115px;
+    top: 200px;
+    left: 1000px;}
+
+.fifth-cloud { display: inline-block;
+position: absolute;
+height: 290px;
+width: 290px;
+top: -150px;
+left: 1130px;
+    }
+
+
+
+.intro-hi {
+  font-family: arial;
+  font-size: 0.6em;
+}
+
+.question-mark {
+  display: inline-block;
+  width: 65%;
+  float: left;
+  margin: -80px -400px 100px
+
+
+
+  ;}
+
+.video-photo {
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+  margin-top: -60px;
+  ;}
+
+.design {
+  width: 45%;
+  float:right;
+  margin-left: 30px;
+  margin-top: -60px;}
+
+.crypto {
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+  margin-top: -60px;}
+
+.techinical-analysis {
+  width: 45%;
+  float:right;
+  margin-left: 30px;
+  margin-top: -60px;;}
+
+h3 { color:#FF7171;
+  font-family: Arial;
+}
+
+h2 {color: #FF7171;
+  font-weight: bold;
+  line-height: 2;
+  font-family: arial;
+  font-size: 2rem;}
+
+.footer-link {color: #FF7171;
+  font-family: Arial;
+  font-weight: bold;
+  text-decoration: none;
+  ;}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2
+  ;}
+
+.profile {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  text-align: left;
+}
+
+.intro-para {
+  line-height: 2;
+  margin-left: 100px
+
+}
+
+.whoami {
+  margin-left: 100px
+}
+
+.btn {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 14px;
+  background: #EDF6E5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #EDF6E5;
+  background-image: -webkit-linear-gradient(top, #EDF6E5, #ffffff);
+  background-image: -moz-linear-gradient(top, #EDF6E5, #ffffff);
+  background-image: -ms-linear-gradient(top, #EDF6E5, #ffffff);
+  background-image: -o-linear-gradient(top, #EDF6E5, #ffffff);
+  background-image: linear-gradient(to bottom, #EDF6E5, #ffffff);
+  text-decoration: none;
+}
+
+.bottom-container {
+  height: 90px;
+  margin-bottom: -20px;
+  background-color: #EDF6E5;
+  font-family: arial;
+  margin-top: 80px;
+  padding-top: 2%;;
+}
+
+
+.contact-me {
+  margin-top: 80px
+}
+
+.lastpara{
+  font-size: 1rem;
+  margin: 10px auto 40px;
+  width: 30%;
+  color: #40514E;
+}
+.socials{
+  font-size: 1em;
+  word-spacing: 80px;;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  border-color: #FF7171 ;
+  border-width: 7px;
+  width: 4%;
+  margin: 100px auto;
+}
+.lasthr {
+margin-top: 150px;}
+
+.footer-text {
+  margin-top: 25px;
+  font-size: 0.8em;}
+
+a:hover {color: #40514E}
